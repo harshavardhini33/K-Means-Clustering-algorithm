@@ -55,9 +55,11 @@ print('The cluster group for Applicant Income 9000 and Loanamount 150 :' ,predic
 ```
 ## Output:
 ### Insert your output
-![doc](./h.png)
+![doc](https://user-images.githubusercontent.com/93427208/153699145-708f5851-ffa5-4d4e-8d7a-9f2431e753db.png)
 
-![doc](./hh.png)
+
+![doc](https://user-images.githubusercontent.com/93427208/153699152-4cd5f34f-6a23-4d67-b5da-1b4577833b76.png)
+
 
 
 ## Result
